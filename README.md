@@ -1,4 +1,5 @@
-# ssr
+# ssr搭建和bbr加速
+自家备份防和谐比较放心
 ## ssr.sh
 chmod +x ssr.sh && bash ssr.sh
 
